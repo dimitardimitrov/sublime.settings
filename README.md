@@ -1,1 +1,1 @@
-# Sublime Text Settings
+# Sublime Text 3 Settings
