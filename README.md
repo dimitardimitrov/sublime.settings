@@ -1,2 +1,1 @@
-# sublime.settings
-Sublime Text configuration files
+# Sublime Text Settings
