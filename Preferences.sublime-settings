@@ -52,6 +52,13 @@
     "caret_extra_bottom": 0,
     "caret_extra_width": 1,
 
+    // Set to "none" to turn off drawing white space, "selection" to draw only the
+    // white space within the selection, and "all" to draw all white space
+    "draw_white_space": "all",
+
+    // Set to true to removing trailing white space on save
+    "trim_trailing_white_space_on_save": true,
+
     // By default, auto complete will commit the current completion on enter.
     // This setting can be used to make it complete on tab instead.
     // Completing on tab is generally a superior option, as it removes
